@@ -1,6 +1,5 @@
 # 🎯 FineState-Bench
 
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-orange)](https://huggingface.co/datasets/wumiaoshou/Static-FineBench)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 
@@ -51,7 +50,6 @@ FineState-Bench/
 
 1. 📥 **Clone the repository:**
 ```bash
-git clone https://github.com/AnonymousThewarehouse/FineState-Bench.git
 cd FineState-Bench
 ```
 
